@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 <br>
 
 <p>If you are interested in more details, Check out my website! <p>
-<a href="https://yaashu.github.io/Yashika_Goyal/">Click Me 🦄</a>
+<a href="https://yaashu.github.io/Yashika_Goyal/" target="_blank">Click Me 🦄</a>
