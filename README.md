@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <br>
 
 - 🔭 I’m currently working on A.I, Machine Learning & Data Science Projects 
-- 👯 I’m looking to collaborate on Ideas related to the World of artificial Intelligence, 🌱 Building Communitites, & Research Projects In My Domain...
+- 👯 I’m looking to collaborate on Ideas in World of artificial Intelligence, 🌱 Building Communitites, & Research Projects
 - 💬 Ask me about: Anything! 🤔
 - 📫 How to reach me: https://www.linkedin.com/in/yaashu/
 - 😄 Pronouns: She/Her
