@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi there👋, I'm Yashika Goyal</h1>
-<h3 align="center">I am a Machine Learning & Deep Learning Enthusiast and an AI Researcher. I'm greatly interested in Machine Learning, Deep Learning, Computer Vision & Reinforcement Learning</h3>
+<h3 align="center">I am a Deep Learning Enthusiast and an Artificial Intelligence Researcher.</h3>
 
 <br>
 
@@ -31,5 +31,12 @@ Here are some ideas to get you started:
 
 <br>
 
+💻 I’m currently working as a Machine Learning Intern @Feynn Labs
+<ul>
+  <li>As the Machine Learning Intern in Feynn Labs, I am responsible for planning, organizing, directing, and managing the given tasks within the organization.</li>
+</ul>
+
+<br>
+
 <p>If you are interested in more details, Check out my website! <p>
-<a href="https://yaashu.github.io/Yashika_Goyal/" target="_blank">Click Me 🦄</a>
+<a href="http://yashikagoyal.us/" target="_blank">Click Me 🦄</a>
